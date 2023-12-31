@@ -1,8 +1,14 @@
 {
-  "name": "gif-expert-app",
+  "name": "gifflow-app",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.0.0",
   "type": "module",
+  "author": "Cristóbal Manzano",
+  "description": "GifFlow is a dynamic and vibrant application that brings a new dimension to your gif exploration experience. Dive into the world of animated expressions with seamless navigation and discover the endless possibilities of GifFlow. Powered by React and Vite for a smooth and responsive user interface.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zanozano/gifflow-app.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
